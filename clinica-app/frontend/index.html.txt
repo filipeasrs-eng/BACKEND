@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Clínica</title>
+</head>
+<body>
+  <h1>Clínica Médica</h1>
+  <button onclick="alert('Sistema funcionando')">Testar</button>
+</body>
+</html>
